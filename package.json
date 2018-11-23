@@ -1,0 +1,25 @@
+{
+  "name": "yelpcamp",
+  "version": "1.0.0",
+  "description": "node app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pemeyer/yelpcamp.git"
+  },
+  "author": "Peter-John Meyer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pemeyer/yelpcamp/issues"
+  },
+  "homepage": "https://github.com/pemeyer/yelpcamp#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
